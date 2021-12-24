@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\bin\Debug\netcoreapp3.1\sodokoORG.exe
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\bin\Debug\netcoreapp3.1\sodokoORG.deps.json
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\bin\Debug\netcoreapp3.1\sodokoORG.runtimeconfig.json
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\bin\Debug\netcoreapp3.1\sodokoORG.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\bin\Debug\netcoreapp3.1\sodokoORG.dll
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\bin\Debug\netcoreapp3.1\sodokoORG.pdb
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\obj\Debug\netcoreapp3.1\sodokoORG.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\obj\Debug\netcoreapp3.1\sodokoORG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\obj\Debug\netcoreapp3.1\sodokoORG.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\obj\Debug\netcoreapp3.1\sodokoORG.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\obj\Debug\netcoreapp3.1\sodokoORG.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\obj\Debug\netcoreapp3.1\sodokoORG.dll
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\obj\Debug\netcoreapp3.1\sodokoORG.pdb
+C:\Users\ASUS\source\repos\sodokoORG\sodokoORG\obj\Debug\netcoreapp3.1\sodokoORG.genruntimeconfig.cache
